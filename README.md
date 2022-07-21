@@ -1,6 +1,10 @@
-### Hellow World! Hello Jayden! 👋
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaydenLee1116&count_bg=%23333333&title_bg=%230064FF&icon=javascript.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+## Hellow World! Hello Jayden! 👋
+
+```javascript 
+  
+```
 
 <!--
 **JaydenLee1116/JaydenLee1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
