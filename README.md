@@ -8,7 +8,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaydenLee1116&show_icons=true&theme=vue-dark)](https://github.com/JaydenLee1116)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaydenLee1116&layout=compact)](https://github.com/JaydenLee1116/github-readme-stats)
 
 <!--
 **JaydenLee1116/JaydenLee1116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
