@@ -1,9 +1,12 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJaydenLee1116&count_bg=%23333333&title_bg=%230064FF&icon=javascript.svg&icon_color=%23FFFFFF&title=Hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-## Hellow World! Hello Jayden! 👋
+# Hellow World! Hello Jayden! 👋
 
 ```javascript 
-  
+  const jaydenLee = {
+    name: 'LEE JAE HO',
+    field: 'Front-End',
+    skill: ['HTML', 'CSS', 'JavaScript'],
+    blog: 'https://jaydenlee1116.github.io/'
+    }
 ```
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaydenLee1116&show_icons=true&theme=vue-dark)](https://github.com/JaydenLee1116)
