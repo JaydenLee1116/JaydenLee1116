@@ -5,7 +5,7 @@
     name: 'LEE JAE HO',
     field: 'Front-End',
     skill: ['HTML', 'CSS', 'JavaScript'],
-    blog: 'https://jaydenlee1116.github.io/'
+    blog: 'https://jaydenlee1116.github.io/',
     }
 ```
 
