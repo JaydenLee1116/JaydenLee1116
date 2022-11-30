@@ -3,7 +3,10 @@
 ```javascript 
   const jaydenLee = {
     name: 'LEE JAE HO',
-    development: { field: 'Front-End', skills: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'TypeScript', 'React.js']},
+    development: {
+                  field: 'Front-End',
+                  skills: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'TypeScript', 'React.js']
+                  },
     blog: 'https://jaydenlee1116.github.io/',
     }
 ```
