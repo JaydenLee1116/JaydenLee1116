@@ -3,13 +3,10 @@
 ```javascript 
   const jaydenLee = {
     name: 'LEE JAE HO',
-    field: 'Front-End',
-    skill: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'React.js'],
+    development: { field: 'Front-End', skills: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'TypeScript', 'React.js']},
     blog: 'https://jaydenlee1116.github.io/',
     }
 ```
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JaydenLee1116&show_icons=true&theme=react)](https://github.com/JaydenLee1116)
 
 <!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
