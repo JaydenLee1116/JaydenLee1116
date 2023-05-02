@@ -5,7 +5,7 @@ const jaydenLee = {
   name: 'LEE JAE HO',
   development: {
     field: 'Front-End',
-    skills: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'TypeScript', 'React.js']
+    skills: ['JavaScript', 'TypeScript', 'React.js', 'HTML', 'CSS', 'SCSS', 'TailwindCSS']
   },
   blog: 'https://jaydenlee1116.github.io/',
 }
