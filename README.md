@@ -7,7 +7,7 @@ const jaydenLee = {
     field: 'Front End',
     favorites: ['TypeScript', 'React.js', 'Next.js']
   },
-  blog: 'https://jaydenlee1116.github.io/',
+  blog: 'https://jayden-blog-next.vercel.app/',
 }
 ```
 
