@@ -1,13 +1,17 @@
 # Hello World! Hello Jayden! 🔨
 
-```javascript 
+```typescript 
 const jaydenLee = {
   name: 'LEE JAE HO',
   development: {
     field: 'Front End',
-    favorites: ['TypeScript', 'React.js', 'Next.js']
+    favorites: [ 'TypeScript', 'React.js', 'Next.js', 'React Native' ],
+    interests: [ 'Supabase', 'Nest.js' ]
   },
-  blog: 'https://jayden-do-smite.com',
+  link: {
+    blog: 'https://jayden-do-smite.com',
+    linkedIn: 'https://linkedin.com/in/jaydenlee1116'
+  }
 }
 ```
 
