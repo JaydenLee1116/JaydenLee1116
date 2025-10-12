@@ -1,20 +1,5 @@
 # Hello World! Hello Jayden! 🔨
 
-```typescript 
-const jaydenLee = {
-  name: 'LEE JAE HO',
-  development: {
-    field: 'Front End',
-    favorites: [ 'TypeScript', 'React.js', 'Next.js', 'React Native' ],
-    interests: [ 'Supabase', 'Nest.js' ]
-  },
-  link: {
-    blog: 'https://jayden-do-smite.com',
-    linkedIn: 'https://linkedin.com/in/jaydenlee1116'
-  }
-}
-```
-
 <div align="center">
 
 <!-- tailwindCSS theme 만들어서 적용 -->
